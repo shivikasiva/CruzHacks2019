@@ -1,6 +1,6 @@
 import json
 from firebase import firebase
-firebase = firebase.FirebaseApplication('https://collegebox-3a06d.firebaseio.com', None)
+firebase = firebase.FirebaseApplication('https://cruzhacks-229107.firebaseio.com/', None)
 
 
 def init_user(name, college, userid):
@@ -14,4 +14,4 @@ def init_user(name, college, userid):
 #init_user('lilly', 'UCLA', '3')
 
 result = firebase.get('/users', '-LWcJ-7nvaKHi5l4saRa')
-print result
+print(result)
