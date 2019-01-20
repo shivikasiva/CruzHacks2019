@@ -1,26 +1,50 @@
-{ 
-  "SammyShark" : {
-    "name"      : "Samuel Powaski",
-    "college"   : "UCSC",
-    "email"     : "spow@gmail.com",
-    "userId"    : "0"
-  },
-  "JesseOctopus" : {
-    "name"      : "Jesse Jackson",
-    "college"   : "UCSC",
-    "email"     : "jj@gmail.com",
-    "userId"    : "1"
-  },
+{
   "DrewSquid" : {
-    "name"      : "Drew Lancasterastr",
-    "college"   : "UCSC",
-    "email"     : "dlan@gmail.com",
-    "userId"    : "2"
+    "college" : "UCSC",
+    "email" : "dlan@gmail.com",
+    "end1" : 11,
+    "end2" : 16,
+    "freq2" : 3,
+    "frequency1" : 2,
+    "name" : "Drew Lancasterastr",
+    "start1" : 9,
+    "start2" : 2,
+    "userId" : "2"
   },
   "JamieMantisShrimp" : {
-    "name"      : "Jamie Drummond",
-    "college"   : "UCSC",
-    "email"     : "jdrum@gmail.com",
-    "userId"    : "3"
+    "college" : "UCSC",
+    "email" : "jdrum@gmail.com",
+    "end1" : 13,
+    "end2" : 17,
+    "frequency1" : 3,
+    "frequency2" : 2,
+    "name" : "Jamie Drummond",
+    "start1" : 11,
+    "start2" : 15,
+    "userId" : "3"
+  },
+  "JesseOctopus" : {
+    "college" : "UCSC",
+    "email" : "jj@gmail.com",
+    "end1" : 11,
+    "end2" : 18,
+    "frequency1" : 2,
+    "frequency2" : 3,
+    "name" : "Jesse Jackson",
+    "start1" : 8,
+    "start2" : 16,
+    "userId" : "1"
+  },
+  "SammyShark" : {
+    "college" : "UCSC",
+    "email" : "spow@gmail.com",
+    "end1" : 15,
+    "end2" : 17,
+    "frequency1" : 2,
+    "frequency2" : 3,
+    "name" : "Samuel Powaski",
+    "start1" : 13,
+    "start2" : 15,
+    "userId" : "0"
   }
 }
