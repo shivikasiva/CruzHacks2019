@@ -1,0 +1,26 @@
+{ 
+  "SammyShark" : {
+    "name"      : "Samuel Powaski",
+    "college"   : "UCSC",
+    "email"     : "spow@gmail.com",
+    "userId"    : "0"
+  },
+  "JesseOctopus" : {
+    "name"      : "Jesse Jackson",
+    "college"   : "UCSC",
+    "email"     : "jj@gmail.com",
+    "userId"    : "1"
+  },
+  "DrewSquid" : {
+    "name"      : "Drew Lancasterastr",
+    "college"   : "UCSC",
+    "email"     : "dlan@gmail.com",
+    "userId"    : "2"
+  },
+  "JamieMantisShrimp" : {
+    "name"      : "Jamie Drummond",
+    "college"   : "UCSC",
+    "email"     : "jdrum@gmail.com",
+    "userId"    : "3"
+  }
+}
